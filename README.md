@@ -1,7 +1,7 @@
 # Watch Connector
-This watchOS application that I built helps user use this watchOS app to send and receive data from his/her iOS app. 
+This watchOS application that I built helps user use this watchOS app to send and receive data from his/her iOS application. 
 
-The watchOS app that I built is capable of performing the following five functions:
+This app is capable of performing the following five functions:
 
 •	Transferring Real-Time Messages between Devices
 
